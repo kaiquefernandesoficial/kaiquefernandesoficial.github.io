@@ -1,0 +1,14 @@
+{
+  "name": "Aura — Seu espaço pessoal",
+  "short_name": "Aura",
+  "description": "Seu espaço pessoal para acompanhar rotina e evolução.",
+  "lang": "pt-BR",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#0b0b0a",
+  "theme_color": "#0b0b0a",
+  "icons": [
+    { "src": "/aura-icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
